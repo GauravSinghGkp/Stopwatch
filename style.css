@@ -1,0 +1,68 @@
+body{
+    background-color:#80d4ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    border-radius: 50%;
+}
+
+
+.digit {
+    font-size: 100px;
+    color: white;
+    font-weight: bold;
+}
+
+.txt{
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+
+
+#Start{
+    background-color: #3F3FBF;
+    color: white;
+    font-weight: bold;
+}
+
+#Stop{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+#Restart{
+    background-color: #3FBF3F;
+    color: white;
+    font-weight: bold;
+}
+
+#btnContainer{
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.buttons{
+    font-size: 14px;
+    margin: 10px 7px;
+    border: 0px;
+    cursor: pointer;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+#center{
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    border-radius: 18px ;
+}
+
+
+
